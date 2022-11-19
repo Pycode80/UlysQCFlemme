@@ -51,11 +51,22 @@ def get_id():
 
 def get_answers():
     answers=[]
-    WebDriverWait(driver, timeout=1).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[3]/div[2]/div')))
-    answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div'))
-    answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[3]/div'))
-    answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[4]/div'))
-    answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[5]/div'))
+    try :
+        WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.XPATH, '//div[@class="ui-checkbox"]/label')))
+    except TimeoutException:
+        4+4
+        #print("Answers not found!")
+
+    anyAnswers = driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label')
+    answers = []
+    
+    for i in range(len(anyAnswers)):
+        try:
+            anyAnswers[i].click()
+            anyAnswers[i].click()
+            answers.append(anyAnswers[i])
+        except WebDriverException:
+            1+1
     return answers
 
 def check_db():
@@ -76,7 +87,7 @@ def check_answers_from_data(data, id):
         for j in data[id]:
             if i.text==str(j):
                 i.click()
-                print(i)
+                print(i.text)
                 print(j)
 
 def check_random_answers():
@@ -146,7 +157,10 @@ def get_corrected_answers():
     print(good_answers)
     with open("data.json", "r") as jsonFile:
         data = json.load(jsonFile)
-
+    try :
+        WebDriverWait(driver, 3).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[2]/div[1]/h4/font')))
+    except TimeoutException:
+        print("0")
     id = driver.find_element(By.XPATH, '/html/body/div[3]/div[1]/h4/font').text[3:]
     data[id] = good_answers
 
@@ -165,8 +179,8 @@ def get_corrected_answers():
         print("question suivante")
 
 
-username="gauwic7"
-password="9a895"
+username="Pangauwin"
+password="da7d5"
 
 ended = False
 driverService = Service("./drivers/geckodriver.exe")
