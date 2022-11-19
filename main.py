@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.support import expected_conditions as EC
 from random import randint
 from selenium.common.exceptions import TimeoutException, WebDriverException
@@ -16,20 +17,29 @@ def login(username, password):
 
     driver.find_element(By.XPATH, '/html/body/div[1]/table[1]/tbody/tr[1]/td/div/form/div[3]/input').click()
 
-def navigate():
+def navigate(checkAll):
     trainButton = driver.find_element(By.XPATH, '/html/body/div[1]/table/tbody/tr[1]/td[1]/div/a')
     trainButton.click()
+
+    if checkAll:
+        boxs = driver.find_elements(By.CLASS_NAME, 'ui-link')
+        for i in boxs:
+            if i.get_attribute("onclick") != None:
+                #print(i.get_attribute('onclick'))
+                if i.get_attribute("onclick").startswith("toutcocher"):
+                    i.click()
+
 
     beginButton = driver.find_element(By.XPATH, '//*[@id="btn_QCM"]')
     beginButton.click()
 
     try:
-        WebDriverWait(driver, 5).until(EC.alert_is_present())
+        WebDriverWait(driver, 1).until(EC.alert_is_present())
         alert = driver.switch_to.alert
         alert.accept()
         driver.quit()
         ended = True
-        print("Fin")
+        print("Pas de questions disponibles")
         quit()
     except WebDriverException:
         print("premiere question")
@@ -41,7 +51,7 @@ def get_id():
 
 def get_answers():
     answers=[]
-    WebDriverWait(driver, timeout=10).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[3]/div[2]/div')))
+    WebDriverWait(driver, timeout=1).until(EC.presence_of_element_located((By.XPATH, '/html/body/div[3]/div[2]/div')))
     answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[2]/div'))
     answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[3]/div'))
     answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[4]/div'))
@@ -85,7 +95,7 @@ def check_random_answers():
     random = randint(0, len(answers) - 1)
     answers[random].click()"""
     try :
-        WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//div[@class="ui-checkbox"]/label')))
+        WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.XPATH, '//div[@class="ui-checkbox"]/label')))
     except TimeoutException:
         4+4
         #print("Answers not found!")
@@ -113,7 +123,7 @@ def get_corrected_answers():
     answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[4]/div/label').text)
     answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[5]/div/label').text)"""
     try :
-        WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//div[@class="ui-checkbox"]/label')))
+        WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.XPATH, '//div[@class="ui-checkbox"]/label')))
     except TimeoutException:
         4+4
         #print("Answers not found!")
@@ -146,7 +156,7 @@ def get_corrected_answers():
     driver.find_element(By.XPATH, '//*[@id="btn_suivant"]').click()
 
     try:
-        WebDriverWait(driver, 5).until(EC.alert_is_present())
+        WebDriverWait(driver, 1).until(EC.alert_is_present())
         alert = driver.switch_to.alert
         alert.accept()
         driver.quit()
@@ -159,13 +169,14 @@ username="gauwic7"
 password="9a895"
 
 ended = False
-
-driver = webdriver.Firefox(executable_path="./drivers/geckodriver.exe", firefox_binary="C:\Program Files\Mozilla Firefox/firefox.exe")
+driverService = Service("./drivers/geckodriver.exe")
+driver = webdriver.Firefox(service=driverService, firefox_binary="C:\Program Files\Mozilla Firefox/firefox.exe")
 driver.get("http://www.ulysqcm.fr/")
+checkAll = True
 
 
 login(username, password)
-navigate()
+navigate(checkAll)
 
 while not ended:
     check_db()
