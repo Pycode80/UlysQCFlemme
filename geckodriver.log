@@ -1,0 +1,939 @@
+1668846334138	geckodriver	INFO	Listening on 127.0.0.1:2622
+1668846483195	geckodriver	INFO	Listening on 127.0.0.1:2698
+1668846527451	geckodriver	INFO	Listening on 127.0.0.1:32959
+1668846668197	geckodriver	INFO	Listening on 127.0.0.1:33024
+1668846676606	geckodriver	INFO	Listening on 127.0.0.1:33036
+1668846760267	geckodriver	INFO	Listening on 127.0.0.1:33098
+1668846763343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "33099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileScrApm"
+1668846763745	Marionette	INFO	Marionette enabled
+1668846763751	Marionette	INFO	Listening on port 33111
+Read port: 33111
+WebDriver BiDi listening on ws://127.0.0.1:33099
+1668846763913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileScrApm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33099/devtools/browser/13a3e8ae-cf41-4b0a-9e31-c40aa23ec8f7
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1668846767062	Marionette	INFO	Stopped listening on port 33111
+1668846787026	geckodriver	INFO	Listening on 127.0.0.1:33155
+1668846790081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "33156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileRUTAZE"
+1668846790527	Marionette	INFO	Marionette enabled
+1668846790535	Marionette	INFO	Listening on port 33166
+Read port: 33166
+WebDriver BiDi listening on ws://127.0.0.1:33156
+1668846790772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileRUTAZE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33156/devtools/browser/7e87bdd9-c7a8-4ad7-a5df-2cf9a0124829
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668847014249	Marionette	INFO	Stopped listening on port 33166
+-debugging-port" "33306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileC7VocW"
+1668847011401	Marionette	INFO	Marionette enabled
+1668847011407	Marionette	INFO	Listening on port 33316
+Read port: 33316
+WebDriver BiDi listening on ws://127.0.0.1:33306
+1668847011576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileC7VocW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33306/devtools/browser/a6f7cdd4-7cba-44ba-b40e-1c05179567bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668847037360	Marionette	INFO	Stopped listening on port 33316
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "33357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileJNy7w5"
+1668847032265	Marionette	INFO	Marionette enabled
+1668847032272	Marionette	INFO	Listening on port 33368
+Read port: 33368
+WebDriver BiDi listening on ws://127.0.0.1:33357
+1668847032434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileJNy7w5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33357/devtools/browser/f828811a-2878-4e25-9338-ce53e76dcad4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1668847096332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "33434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileG88fn5"
+1668847096798	Marionette	INFO	Marionette enabled
+1668847096805	Marionette	INFO	Listening on port 33446
+Read port: 33446
+WebDriver BiDi listening on ws://127.0.0.1:33434
+1668847096979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileG88fn5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33434/devtools/browser/8c6e8626-582b-4ab8-ae3b-174eea488baa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668847138241	Marionette	INFO	Stopped listening on port 33446
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "33488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileTKELoI"
+1668847133066	Marionette	INFO	Marionette enabled
+1668847133072	Marionette	INFO	Listening on port 33499
+Read port: 33499
+WebDriver BiDi listening on ws://127.0.0.1:33488
+1668847133223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileTKELoI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33488/devtools/browser/f20e0662-0daa-4dcf-8228-67513ca567e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668847328690	Marionette	INFO	Stopped listening on port 33499
+1668847330874	geckodriver	INFO	Listening on 127.0.0.1:33618
+1668847333941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "33619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilef2oILU"
+1668847334432	Marionette	INFO	Marionette enabled
+1668847334439	Marionette	INFO	Listening on port 33629
+Read port: 33629
+WebDriver BiDi listening on ws://127.0.0.1:33619
+1668847334650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilef2oILU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33619/devtools/browser/8fa5fb0f-bb6d-4f29-a5d4-4959430cb6c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668847452969	Marionette	INFO	Stopped listening on port 33629
+-debugging-port" "33719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileEwUrLV"
+1668847441852	Marionette	INFO	Marionette enabled
+1668847441858	Marionette	INFO	Listening on port 33730
+Read port: 33730
+WebDriver BiDi listening on ws://127.0.0.1:33719
+1668847442011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileEwUrLV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33719/devtools/browser/9e814d4a-d7bb-458b-a012-b78e19713154
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668847736996	Marionette	INFO	Stopped listening on port 33730
+[Parent 6992, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Temp\\rust_mozprofileIDFcRm"
+1668847586077	Marionette	INFO	Marionette enabled
+1668847586082	Marionette	INFO	Listening on port 33837
+Read port: 33837
+WebDriver BiDi listening on ws://127.0.0.1:33828
+1668847586234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileIDFcRm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33828/devtools/browser/fdfa0220-7e20-4298-b8a2-fba910126c4b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668847738153	Marionette	INFO	Stopped listening on port 33837
+[Parent 1428, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+!!! error running onStopped callback: TypeError: callback is not a function
+rt: 33903
+WebDriver BiDi listening on ws://127.0.0.1:33891
+1668847651449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilebQsteD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33891/devtools/browser/e35c30a8-355b-466c-bf69-31950577f8d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668847741234	Marionette	INFO	Stopped listening on port 33903
+[Parent 14148, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+ette enabled
+1668847723892	Marionette	INFO	Listening on port 33971
+Read port: 33971
+WebDriver BiDi listening on ws://127.0.0.1:33961
+1668847724045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileyjae7e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33961/devtools/browser/e25e621f-c10c-41a2-bf4c-dc0bca1e2104
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668847916683	Marionette	INFO	Stopped listening on port 33971
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668847934215	geckodriver	INFO	Listening on 127.0.0.1:34132
+1668847937254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "34133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilernQQlx"
+1668847937666	Marionette	INFO	Marionette enabled
+1668847937672	Marionette	INFO	Listening on port 34143
+Read port: 34143
+WebDriver BiDi listening on ws://127.0.0.1:34133
+1668847937819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilernQQlx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34133/devtools/browser/9e10d00d-7b23-4073-affd-bcebd042cdda
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668847943679	Marionette	INFO	Stopped listening on port 34143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668847972880	geckodriver	INFO	Listening on 127.0.0.1:34189
+1668847975936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "34190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileE24Tz5"
+1668847976387	Marionette	INFO	Marionette enabled
+1668847976395	Marionette	INFO	Listening on port 34201
+Read port: 34201
+WebDriver BiDi listening on ws://127.0.0.1:34190
+1668847976579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileE24Tz5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34190/devtools/browser/3e68d654-6a6e-47b1-bd49-84e126064e2f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668848032835	Marionette	INFO	Stopped listening on port 34201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1668848296240	geckodriver	INFO	Listening on 127.0.0.1:34337
+1668848299300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "34338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileWn08oN"
+1668848299699	Marionette	INFO	Marionette enabled
+1668848299705	Marionette	INFO	Listening on port 34348
+Read port: 34348
+WebDriver BiDi listening on ws://127.0.0.1:34338
+1668848299856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileWn08oN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34338/devtools/browser/100476b4-536a-4b52-9f5c-b29682f9a083
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668848331124	Marionette	INFO	Stopped listening on port 34348
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "34403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileQad8jr"
+1668848327514	Marionette	INFO	Marionette enabled
+1668848327520	Marionette	INFO	Listening on port 34417
+Read port: 34417
+WebDriver BiDi listening on ws://127.0.0.1:34403
+1668848327680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileQad8jr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34403/devtools/browser/97e6d672-ee04-432f-9e8d-fe9d4d7d5c38
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668848335441	Marionette	INFO	Stopped listening on port 34417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668848346193	geckodriver	INFO	Listening on 127.0.0.1:34461
+1668848349257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "34462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileYfIku8"
+1668848349717	Marionette	INFO	Marionette enabled
+1668848349723	Marionette	INFO	Listening on port 34472
+Read port: 34472
+WebDriver BiDi listening on ws://127.0.0.1:34462
+1668848349887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileYfIku8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34462/devtools/browser/b489b80b-d75d-48d4-a5a6-f49684d8faa6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668848783433	Marionette	INFO	Stopped listening on port 34472
+-debugging-port" "34558" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileNSZse4"
+1668848470778	Marionette	INFO	Marionette enabled
+1668848470783	Marionette	INFO	Listening on port 34569
+Read port: 34569
+WebDriver BiDi listening on ws://127.0.0.1:34558
+1668848470939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileNSZse4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34558/devtools/browser/80641436-2e3d-4ad5-8bb1-1326d0f1a088
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668848784004	Marionette	INFO	Stopped listening on port 34569
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "34709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileVZp9Io"
+1668848718782	Marionette	INFO	Marionette enabled
+1668848718787	Marionette	INFO	Listening on port 34718
+Read port: 34718
+WebDriver BiDi listening on ws://127.0.0.1:34709
+1668848718941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileVZp9Io\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34709/devtools/browser/6d705fbf-4dfa-486f-92e0-da3c8f030499
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668848784915	Marionette	INFO	Stopped listening on port 34718
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "34759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileKjCebo"
+1668848766406	Marionette	INFO	Marionette enabled
+1668848766412	Marionette	INFO	Listening on port 34769
+Read port: 34769
+WebDriver BiDi listening on ws://127.0.0.1:34759
+1668848766561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileKjCebo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34759/devtools/browser/38513e47-1ecf-4e4a-8365-b1a119f639d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668848991971	Marionette	INFO	Stopped listening on port 34769
+8848784687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "34810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileXrqD4Y"
+1668848785143	Marionette	INFO	Marionette enabled
+1668848785148	Marionette	INFO	Listening on port 34822
+Read port: 34822
+WebDriver BiDi listening on ws://127.0.0.1:34810
+1668848785304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileXrqD4Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34810/devtools/browser/632c65c7-5639-4ee6-9289-b5ba4ab75ff7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668848992778	Marionette	INFO	Stopped listening on port 34822
+-debugging-port" "34897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileqPNZFT"
+1668848856734	Marionette	INFO	Marionette enabled
+1668848856741	Marionette	INFO	Listening on port 34908
+Read port: 34908
+WebDriver BiDi listening on ws://127.0.0.1:34897
+1668848856969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileqPNZFT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34897/devtools/browser/951f4fa9-31d8-4b27-b6d0-8a020074c153
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668849109682	Marionette	INFO	Stopped listening on port 34908
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "35008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile0Ysp4T"
+1668848992427	Marionette	INFO	Marionette enabled
+1668848992433	Marionette	INFO	Listening on port 35018
+Read port: 35018
+WebDriver BiDi listening on ws://127.0.0.1:35008
+1668848992603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile0Ysp4T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35008/devtools/browser/e103a95c-991b-442a-a46e-ab3c91c68aab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668849110581	Marionette	INFO	Stopped listening on port 35018
+-debugging-port" "35065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileHYygNA"
+1668849052073	Marionette	INFO	Marionette enabled
+1668849052078	Marionette	INFO	Listening on port 35074
+Read port: 35074
+WebDriver BiDi listening on ws://127.0.0.1:35065
+1668849052228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileHYygNA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35065/devtools/browser/58f22a18-390f-4125-a3b8-da4780059bbc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668849112291	Marionette	INFO	Stopped listening on port 35074
+1668849114982	geckodriver	INFO	Listening on 127.0.0.1:35128
+1668849118015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "35129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile8bFObd"
+1668849118454	Marionette	INFO	Marionette enabled
+1668849118460	Marionette	INFO	Listening on port 35138
+Read port: 35138
+WebDriver BiDi listening on ws://127.0.0.1:35129
+1668849118649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile8bFObd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35129/devtools/browser/2dd38d00-d879-4bc8-9319-c7337484108e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668849305247	Marionette	INFO	Stopped listening on port 35138
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "35183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilez9aKWs"
+1668849150193	Marionette	INFO	Marionette enabled
+1668849150198	Marionette	INFO	Listening on port 35192
+Read port: 35192
+WebDriver BiDi listening on ws://127.0.0.1:35183
+1668849150353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilez9aKWs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35183/devtools/browser/8190cf44-e844-423e-928c-1fcd2b4683c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668849309066	Marionette	INFO	Stopped listening on port 35192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "35309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileI3SQNk"
+1668849307006	Marionette	INFO	Marionette enabled
+1668849307012	Marionette	INFO	Listening on port 35320
+Read port: 35320
+WebDriver BiDi listening on ws://127.0.0.1:35309
+1668849307163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileI3SQNk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35309/devtools/browser/7859cc43-2dde-40d2-a168-b50af8548aae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668849360330	Marionette	INFO	Stopped listening on port 35320
+-debugging-port" "35364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile5U2U2u"
+1668849356094	Marionette	INFO	Marionette enabled
+1668849356099	Marionette	INFO	Listening on port 35375
+Read port: 35375
+WebDriver BiDi listening on ws://127.0.0.1:35364
+1668849356268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile5U2U2u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35364/devtools/browser/162fa112-ceba-4d13-92d1-900575fe937e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668849494434	Marionette	INFO	Stopped listening on port 35375
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "35445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilej4m5lo"
+1668849471439	Marionette	INFO	Marionette enabled
+1668849471445	Marionette	INFO	Listening on port 35454
+Read port: 35454
+WebDriver BiDi listening on ws://127.0.0.1:35445
+1668849471594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilej4m5lo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35445/devtools/browser/9cc3263b-fe3c-4b49-bae5-63358fcd57b3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668849492121	Marionette	INFO	Stopped listening on port 35454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "35493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileMt9EYW"
+1668849491438	Marionette	INFO	Marionette enabled
+1668849491445	Marionette	INFO	Listening on port 35504
+Read port: 35504
+WebDriver BiDi listening on ws://127.0.0.1:35493
+1668849491618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileMt9EYW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35493/devtools/browser/e499b6fd-9501-4a28-b3b4-721af5d13465
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668849852140	Marionette	INFO	Stopped listening on port 35504
+-debugging-port" "35589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileHsSAQq"
+1668849606646	Marionette	INFO	Marionette enabled
+1668849606651	Marionette	INFO	Listening on port 35600
+Read port: 35600
+WebDriver BiDi listening on ws://127.0.0.1:35589
+1668849606802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileHsSAQq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35589/devtools/browser/ddae90cf-877b-4f48-97a6-548f7ab98d43
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668849852978	Marionette	INFO	Stopped listening on port 35600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668849854971	geckodriver	INFO	Listening on 127.0.0.1:35729
+1668849858004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "35730" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilegHPksz"
+1668849858441	Marionette	INFO	Marionette enabled
+1668849858447	Marionette	INFO	Listening on port 35741
+Read port: 35741
+WebDriver BiDi listening on ws://127.0.0.1:35730
+1668849858617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilegHPksz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35730/devtools/browser/0d4e9fb9-516c-442c-a30f-cb237940ed58
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850138610	Marionette	INFO	Stopped listening on port 35741
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668850141046	geckodriver	INFO	Listening on 127.0.0.1:35833
+1668850144093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "35834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilesCW844"
+1668850144492	Marionette	INFO	Marionette enabled
+1668850144498	Marionette	INFO	Listening on port 35845
+Read port: 35845
+WebDriver BiDi listening on ws://127.0.0.1:35834
+1668850144665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilesCW844\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35834/devtools/browser/c5102284-33c8-457c-a4de-29326da00e0c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668850269723	Marionette	INFO	Stopped listening on port 35845
+-debugging-port" "35925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilezVZPMz"
+1668850268823	Marionette	INFO	Marionette enabled
+1668850268830	Marionette	INFO	Listening on port 35934
+Read port: 35934
+WebDriver BiDi listening on ws://127.0.0.1:35925
+1668850268991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilezVZPMz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35925/devtools/browser/d4c3cac2-1345-4f0f-b4a1-82d7f1667fd6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850298478	Marionette	INFO	Stopped listening on port 35931668850298552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "35978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilesN06gq"
+1668850298969	Marionette	INFO	Marionette enabled
+1668850298974	Marionette	INFO	Listening on port 35990
+Read port: 35990
+WebDriver BiDi listening on ws://127.0.0.1:35978
+1668850299147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilesN06gq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35978/devtools/browser/5ab0ad02-7b38-4139-ad31-b44daccdcf00
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850394378	Marionette	INFO	Stopped listening on port 35990
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "36029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileEOhJSL"
+1668850341167	Marionette	INFO	Marionette enabled
+1668850341173	Marionette	INFO	Listening on port 36038
+Read port: 36038
+WebDriver BiDi listening on ws://127.0.0.1:36029
+1668850341323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileEOhJSL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36029/devtools/browser/6b65a676-e61e-4187-91df-80eb6827739b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850395139	Marionette	INFO	Stopped listening on port 36038
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "36087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileTPP0my"
+1668850395454	Marionette	INFO	Marionette enabled
+1668850395461	Marionette	INFO	Listening on port 36099
+Read port: 36099
+WebDriver BiDi listening on ws://127.0.0.1:36087
+1668850395629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileTPP0my\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36087/devtools/browser/b1d15803-e2e1-4f9c-ba7a-591dfb36d8ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850419484	Marionette	INFO	Stopped listening on port 36099
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "36139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileIZ7PA0"
+1668850416221	Marionette	INFO	Marionette enabled
+1668850416227	Marionette	INFO	Listening on port 36148
+Read port: 36148
+WebDriver BiDi listening on ws://127.0.0.1:36139
+1668850416375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileIZ7PA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36139/devtools/browser/6fe918e6-0569-4d70-adb5-eceabaeba8fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850484281	Marionette	INFO	Stopped listening on port 36148
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "36195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile8NgLWK"
+1668850459512	Marionette	INFO	Marionette enabled
+1668850459517	Marionette	INFO	Listening on port 36206
+Read port: 36206
+WebDriver BiDi listening on ws://127.0.0.1:36195
+1668850459668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile8NgLWK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36195/devtools/browser/0794c4cc-a27b-4732-be48-e42683ecc8e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850510931	Marionette	INFO	Stopped listening on port 36206
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "36247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilekNE7tu"
+1668850486294	Marionette	INFO	Marionette enabled
+1668850486300	Marionette	INFO	Listening on port 36256
+Read port: 36256
+WebDriver BiDi listening on ws://127.0.0.1:36247
+1668850486453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilekNE7tu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36247/devtools/browser/06993f7c-c157-44fa-995e-775a15fa0e4d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850566331	Marionette	INFO	Stopped listening on port 36256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "36302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileaH2Ayz"
+1668850512687	Marionette	INFO	Marionette enabled
+1668850512693	Marionette	INFO	Listening on port 36313
+Read port: 36313
+WebDriver BiDi listening on ws://127.0.0.1:36302
+1668850512848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileaH2Ayz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36302/devtools/browser/27dd68ea-5f3b-4414-aef4-dac08ce6ae47
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850566855	Marionette	INFO	Stopped listening on port 36313
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+emote-debugging-port" "36358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilessgaWF"
+1668850542627	Marionette	INFO	Marionette enabled
+1668850542632	Marionette	INFO	Listening on port 36369
+Read port: 36369
+WebDriver BiDi listening on ws://127.0.0.1:36358
+1668850542785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilessgaWF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36358/devtools/browser/1274bae8-05f0-4e8c-8c1c-920c8c88c61f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850567610	Marionette	INFO	Stopped listening on port 36369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668850728621	geckodriver	INFO	Listening on 127.0.0.1:36440
+1668850731708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "36441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile6KTi7z"
+1668850732111	Marionette	INFO	Marionette enabled
+1668850732116	Marionette	INFO	Listening on port 36451
+Read port: 36451
+WebDriver BiDi listening on ws://127.0.0.1:36441
+1668850732271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile6KTi7z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36441/devtools/browser/9a383741-4f06-4049-bbb9-83cea3e23470
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1668850796424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "36515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilerbkeql"
+1668850796813	Marionette	INFO	Marionette enabled
+1668850796818	Marionette	INFO	Listening on port 36528
+Read port: 36528
+WebDriver BiDi listening on ws://127.0.0.1:36515
+1668850796971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilerbkeql\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36515/devtools/browser/6371eebe-822e-400f-8d45-51f3e81cfe7e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850885713	Marionette	INFO	Stopped listening on port 36521668850886238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "36592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilez9oyTl"
+1668850886646	Marionette	INFO	Marionette enabled
+1668850886651	Marionette	INFO	Listening on port 36601
+Read port: 36601
+WebDriver BiDi listening on ws://127.0.0.1:36592
+1668850886803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofilez9oyTl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36592/devtools/browser/3c589044-4a5c-4ec8-8209-2a482c08d1b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850905886	Marionette	INFO	Stopped listening on port 36601
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668850907549	geckodriver	INFO	Listening on 127.0.0.1:36641
+1668850910628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "36642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileYYdjCy"
+1668850911030	Marionette	INFO	Marionette enabled
+1668850911036	Marionette	INFO	Listening on port 36653
+Read port: 36653
+WebDriver BiDi listening on ws://127.0.0.1:36642
+1668850911189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileYYdjCy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36642/devtools/browser/90c14fe6-db5a-47b0-9402-38ce35bfd8bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668850921969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850923095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850924383	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850925554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850926272	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850927020	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850927751	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850928504	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850930741	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850931939	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850933168	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850934471	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850935687	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850936417	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850937149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850937880	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850938661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850939387	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850940832	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850941907	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850942634	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850943363	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850944089	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850944819	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850946003	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850947277	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850948481	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850949211	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850949957	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668850952098	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851085001	geckodriver	INFO	Listening on 127.0.0.1:36736
+1668851088069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "36737" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileot5Xcq"
+1668851088485	Marionette	INFO	Marionette enabled
+1668851088490	Marionette	INFO	Listening on port 36746
+Read port: 36746
+WebDriver BiDi listening on ws://127.0.0.1:36737
+1668851088642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileot5Xcq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36737/devtools/browser/41361e8d-aa66-436d-a197-91355e8aaf0f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+1668851221125	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851222346	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851223590	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851235375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851246502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851247654	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851248372	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851249089	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851249883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851250603	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851251312	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851255148	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851256213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851257229	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851258230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851258946	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851260279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851264304	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851265509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851266742	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851268028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851269209	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851269939	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851270684	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851271417	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851272196	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668851272916	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://www.ulysqcm.fr/UlysQCM/QCM_correction.php, line 132: ReferenceError: exit is not defined
+1668851577018	Marionette	INFO	Stopped listening on port 36746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668851580602	geckodriver	INFO	Listening on 127.0.0.1:36952
+1668851583681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "36953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileeA3Kx3"
+1668851584348	Marionette	INFO	Marionette enabled
+1668851584353	Marionette	INFO	Listening on port 36962
+Read port: 36962
+WebDriver BiDi listening on ws://127.0.0.1:36953
+1668851584508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileeA3Kx3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36953/devtools/browser/b0cdf4e7-afc7-4db5-a6d5-23c252aebff8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: http://www.ulysqcm.fr/UlysQCM/QCM_index.php, line 136: ReferenceError: exit is not defined
+1668851634851	Marionette	INFO	Stopped listening on port 36961668851636348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "37012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile2x5IuR"
+1668851636788	Marionette	INFO	Marionette enabled
+1668851636795	Marionette	INFO	Listening on port 37022
+Read port: 37022
+WebDriver BiDi listening on ws://127.0.0.1:37012
+1668851636963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofile2x5IuR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37012/devtools/browser/58a8749f-449d-4aec-9b96-f258c62b2604
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: http://www.ulysqcm.fr/UlysQCM/QCM_index.php, line 136: ReferenceError: exit is not defined
+1668851640553	Marionette	INFO	Stopped listening on port 37022
+1668851672937	geckodriver	INFO	Listening on 127.0.0.1:37081
+1668851676004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "37082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileQu59kr"
+1668851676479	Marionette	INFO	Marionette enabled
+1668851676484	Marionette	INFO	Listening on port 37091
+Read port: 37091
+WebDriver BiDi listening on ws://127.0.0.1:37082
+1668851676652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileQu59kr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37082/devtools/browser/d29bd51a-7702-4473-842a-cff7de189718
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: http://www.ulysqcm.fr/UlysQCM/QCM_index.php, line 136: ReferenceError: exit is not defined
+1668851680298	Marionette	INFO	Stopped listening on port 37091
+1668851777304	geckodriver	INFO	Listening on 127.0.0.1:37164
+1668851780381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "37165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileJNj2nS"
+1668851780789	Marionette	INFO	Marionette enabled
+1668851780795	Marionette	INFO	Listening on port 37174
+Read port: 37174
+WebDriver BiDi listening on ws://127.0.0.1:37165
+1668851780946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LESPET~1\\AppData\\Local\\Temp\\rust_mozprofileJNj2nS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37165/devtools/browser/8e963545-7c19-4aaf-91d2-d969c1dfbbb2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://www.ulysqcm.fr."
+JavaScript error: http://www.ulysqcm.fr/UlysQCM/QCM_index.php, line 136: ReferenceError: exit is not defined
+1668851784482	Marionette	INFO	Stopped listening on port 37174
