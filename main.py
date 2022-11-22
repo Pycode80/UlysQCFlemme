@@ -81,7 +81,8 @@ def check_db():
 
 def check_answers_from_data(data, id):
     answers = get_answers()
-    print(answers)
+    for i in answers:
+        print(i.text)
     print(data[id])
     for i in answers:
         for j in data[id]:
@@ -158,10 +159,10 @@ def get_corrected_answers():
     with open("data.json", "r") as jsonFile:
         data = json.load(jsonFile)
     try :
-        WebDriverWait(driver, 3).until(EC.visibility_of_element_located((By.XPATH, '/html/body/div[2]/div[1]/h4/font')))
+        WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CSS_SELECTOR, '.ui-title > font:nth-child(2)')))
     except TimeoutException:
         print("0")
-    id = driver.find_element(By.XPATH, '/html/body/div[3]/div[1]/h4/font').text[3:]
+    id = driver.find_element(By.CSS_SELECTOR, '.ui-title > font:nth-child(2)').text[3:]
     data[id] = good_answers
 
     with open("data.json", "w") as jsonFile:
@@ -179,8 +180,11 @@ def get_corrected_answers():
         print("question suivante")
 
 
-username="Pangauwin"
-password="da7d5"
+username="gauwic7"
+password="9a895"
+
+usernameTest = "Pangauwin"
+passwordTest = "da7d5"
 
 ended = False
 driverService = Service("./drivers/geckodriver.exe")
@@ -189,7 +193,7 @@ driver.get("http://www.ulysqcm.fr/")
 checkAll = True
 
 
-login(username, password)
+login(usernameTest, passwordTest)
 navigate(checkAll)
 
 while not ended:
