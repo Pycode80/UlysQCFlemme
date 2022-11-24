@@ -59,7 +59,7 @@ def get_answers():
 
     anyAnswers = driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label')
     answers = []
-    
+
     for i in range(len(anyAnswers)):
         try:
             anyAnswers[i].click()
@@ -80,7 +80,13 @@ def check_db():
         check_random_answers()
 
 def check_answers_from_data(data, id):
-    answers = get_answers()
+    try :
+        WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.XPATH, '//div[@class="ui-checkbox"]/label')))
+    except TimeoutException:
+        4+4
+
+    anyAnswers = driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label')
+    answers = []
     for i in answers:
         print(i.text)
     print(data[id])
@@ -114,12 +120,13 @@ def check_random_answers():
 
     anyAnswers = driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label')
     answers = []
-    
+
     for i in range(len(anyAnswers)):
         try:
             anyAnswers[i].click()
             anyAnswers[i].click()
             answers.append(anyAnswers[i])
+            #print(anyAnswers[i].text)
         except WebDriverException:
             1+1
     random = randint(0, len(answers) - 1)
@@ -135,27 +142,35 @@ def get_corrected_answers():
     answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[4]/div/label').text)
     answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[5]/div/label').text)"""
     try :
-        WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.XPATH, '//div[@class="ui-checkbox"]/label')))
+        WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, 'ui-checkbox')))
     except TimeoutException:
         4+4
         #print("Answers not found!")
 
-    anyAnswers = driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label')
+    if useChrome:
+        anyAnswers = driver.find_elements(By.CLASS_NAME, 'ui-checkbox')
+    else:
+        anyAnswers = driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label')
     answers = []
-    
+    for i in anyAnswers:
+        print(i.text)
+
     for i in range(len(anyAnswers)):
         try:
             anyAnswers[i].click()
             anyAnswers[i].click()
             answers.append(anyAnswers[i].text)
+            #print(anyAnswers[i].text)
         except WebDriverException:
             1+1
     print(answers)
     good_answers = []
     for answer in answers:
+        print(answer)
         if answer.startswith("Bonne réponse"):
+            print('ok')
             good_answers.append(answer[14:])
-    print(good_answers)
+    #print(good_answers)
     with open("data.json", "r") as jsonFile:
         data = json.load(jsonFile)
     try :
@@ -187,8 +202,14 @@ usernameTest = "Pangauwin"
 passwordTest = "da7d5"
 
 ended = False
-driverService = Service("./drivers/geckodriver.exe")
-driver = webdriver.Firefox(service=driverService, firefox_binary="C:\Program Files\Mozilla Firefox/firefox.exe")
+useChrome = True
+
+if useChrome:
+    driver = webdriver.Chrome(executable_path="./drivers/chromedriver")
+else:
+    driverService = Service("./drivers/geckodriver.exe")
+    driver = webdriver.Firefox(service=driverService, firefox_binary="C:\Program Files\Mozilla Firefox/firefox.exe")
+
 driver.get("http://www.ulysqcm.fr/")
 checkAll = True
 
