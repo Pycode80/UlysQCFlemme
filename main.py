@@ -74,8 +74,8 @@ def check_db():
         data = json.load(json_file)
 
     if get_id() in data :
-        check_answers_from_data(data, get_id())
         print("ID FOUND!!")
+        check_answers_from_data(data, get_id())
     else:
         check_random_answers()
 
@@ -86,16 +86,11 @@ def check_answers_from_data(data, id):
         4+4
 
     anyAnswers = driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label')
-    answers = []
-    for i in answers:
-        print(i.text)
-    print(data[id])
+    answers = get_answers()
     for i in answers:
         for j in data[id]:
-            if i.text==str(j):
+            if str(i.text)==str(j):
                 i.click()
-                print(i.text)
-                print(j)
 
 def check_random_answers():
     """answers=[]
@@ -144,7 +139,7 @@ def get_corrected_answers():
     try :
         WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, 'ui-checkbox')))
     except TimeoutException:
-        4+4
+        print('non')
         #print("Answers not found!")
 
     if useChrome:
@@ -152,8 +147,6 @@ def get_corrected_answers():
     else:
         anyAnswers = driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label')
     answers = []
-    for i in anyAnswers:
-        print(i.text)
 
     for i in range(len(anyAnswers)):
         try:
@@ -203,9 +196,13 @@ passwordTest = "da7d5"
 
 ended = False
 useChrome = True
+v107=True
 
 if useChrome:
-    driver = webdriver.Chrome(executable_path="./drivers/chromedriver")
+    if v107:
+        driver = webdriver.Chrome(executable_path="./drivers/chromedriver107.exe")
+    else:
+        driver = webdriver.Chrome(executable_path="./drivers/chromedriver.exe")
 else:
     driverService = Service("./drivers/geckodriver.exe")
     driver = webdriver.Firefox(service=driverService, firefox_binary="C:\Program Files\Mozilla Firefox/firefox.exe")
