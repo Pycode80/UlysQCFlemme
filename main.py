@@ -138,9 +138,14 @@ def get_corrected_answers():
     answers.append(driver.find_element(By.XPATH, '/html/body/div[3]/div[5]/div/label').text)"""
     try :
         WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, 'ui-checkbox')))
+        print("Answers found : ")
+        for i in driver.find_elements(by=By.XPATH, value='//div[@class="ui-checkbox"]/label') :
+            try :
+                print(i.text)
+            except Exception:
+                print(i)
     except TimeoutException:
-        print('non')
-        #print("Answers not found!")
+        print("Answers not found!")
 
     if useChrome:
         anyAnswers = driver.find_elements(By.CLASS_NAME, 'ui-checkbox')
@@ -196,13 +201,13 @@ passwordTest = "da7d5"
 
 ended = False
 useChrome = True
-v107=True
+v107=False
 
 if useChrome:
     if v107:
-        driver = webdriver.Chrome(executable_path="./drivers/chromedriver107.exe")
+        driver = webdriver.Chrome(executable_path="./chromedriver107.exe")
     else:
-        driver = webdriver.Chrome(executable_path="./drivers/chromedriver.exe")
+        driver = webdriver.Chrome(executable_path="./chromedriver.exe")
 else:
     driverService = Service("./drivers/geckodriver.exe")
     driver = webdriver.Firefox(service=driverService, firefox_binary="C:\Program Files\Mozilla Firefox/firefox.exe")
